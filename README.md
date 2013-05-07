@@ -2,4 +2,4 @@ The code in this project is to generate the website www.signestauner.dk. All tex
 and audio examples are copyrighted and may not be used in any other contexts without the
 owners explicit, written agreement.
 
-All Copyright (c) 2006-2012 Signe Stauner (www.signestauner.dk)
+All Copyright (c) 2006-2013 Signe Stauner (www.signestauner.dk)
